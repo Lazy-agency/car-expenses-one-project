@@ -15,6 +15,11 @@
   <dependencies>
     <dependency>
       <groupId>agency.lazy</groupId>
+      <artifactId>car-expenses-frontend</artifactId>
+      <version>1.0</version>
+    </dependency>
+    <dependency>
+      <groupId>agency.lazy</groupId>
       <artifactId>car-expenses-rest-web-service</artifactId>
       <version>1.0</version>
     </dependency>
