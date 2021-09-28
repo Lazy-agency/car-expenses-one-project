@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/car-expenses.iml" filepath="$PROJECT_DIR$/car-expenses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/car-expenses-application/car-expenses-application.iml" filepath="$PROJECT_DIR$/car-expenses-application/car-expenses-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/car-expenses-frontend/car-expenses-frontend.iml" filepath="$PROJECT_DIR$/car-expenses-frontend/car-expenses-frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/car-expenses-graphql-web-service/car-expenses-graphql-web-service.iml" filepath="$PROJECT_DIR$/car-expenses-graphql-web-service/car-expenses-graphql-web-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/car-expenses-repository/car-expenses-repository.iml" filepath="$PROJECT_DIR$/car-expenses-repository/car-expenses-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/car-expenses-rest-web-service/car-expenses-rest-web-service.iml" filepath="$PROJECT_DIR$/car-expenses-rest-web-service/car-expenses-rest-web-service.iml" />
+    </modules>
+  </component>
+</project>
