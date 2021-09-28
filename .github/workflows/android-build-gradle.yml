@@ -21,5 +21,5 @@ jobs:
         run: chmod +x gradlew
         working-directory: car-expenses-android
       - name: Build with Gradle
-        run: ./gradlew build
+        run: ./gradlew.bat build
         working-directory: car-expenses-android
