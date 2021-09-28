@@ -20,7 +20,7 @@ jobs:
       - name: Folder print
         run: ls -a
       - name: Go to Android project directory
-        run: cd car-expenses-android
+        run: cd ./car-expenses-android
       - name: Folder print
         run: ls -a
       - name: Grant execute permission for gradlew
