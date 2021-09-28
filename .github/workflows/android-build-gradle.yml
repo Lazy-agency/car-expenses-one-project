@@ -18,8 +18,8 @@ jobs:
           distribution: 'adopt'
           cache: gradle
       - name: Grant execute permission for gradlew
-        run: chmod +x gradlew.bat
+        run: chmod +x gradlew
         working-directory: car-expenses-android
       - name: Build with Gradle
-        run: ./gradlew.bat build
+        run: ./gradlew build
         working-directory: car-expenses-android
