@@ -16,3 +16,4 @@ jobs:
           heroku_app_name: "lazy-agency-car-expenses-dev"
           heroku_email: "jurica1.migac@gmail.com"
           branch: "dev"
+          appdir: "car-expenses-application"
