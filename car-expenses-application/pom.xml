@@ -5,7 +5,6 @@
   <artifactId>car-expenses-application</artifactId>
   <packaging>jar</packaging>
   <name>car-expenses-application</name>
-  <url>http://www.your-project-url.com</url>
 
   <parent>
     <groupId>agency.lazy</groupId>
