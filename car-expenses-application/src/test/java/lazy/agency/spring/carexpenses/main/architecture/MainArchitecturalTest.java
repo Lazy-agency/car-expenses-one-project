@@ -23,7 +23,7 @@ public class MainArchitecturalTest {
     private static final String UTIL_SUFFIX = "Util";
     private static final String SERVICES_PACKAGE = "..services..";
     private static final String CONTROLLERS_PACKAGE = "..controllers..";
-    private static final String IMPLEMENTATION_PACKAGE = "..impl..";
+    private static final String IMPLEMENTATION_PACKAGE = "..service.impl..";
     private static final String MODELS_PACKAGE = "..models..";
     private static final String REPOSITORIES_PACKAGE = "..repositories..";
     private static final String SERVICES_SUFFIX = "Service";
