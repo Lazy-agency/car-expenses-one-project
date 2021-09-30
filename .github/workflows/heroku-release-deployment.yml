@@ -3,7 +3,7 @@ name: Deploy to Release
 on:
   push:
     branches:
-      - release
+      - stage
 
 jobs:
   build:
@@ -15,5 +15,5 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "lazy-agency-car-expenses-stage"
           heroku_email: "jurica1.migac@gmail.com"
-          branch: "release"
+          branch: "stage"
           appdir: "car-expenses-application"
