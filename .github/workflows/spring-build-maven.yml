@@ -2,7 +2,7 @@ name: Build Spring Project with Maven
 
 on:
   pull_request:
-    branches: [ main, dev, release ]
+    branches: [ main, dev, stage ]
 
 jobs:
   build:
