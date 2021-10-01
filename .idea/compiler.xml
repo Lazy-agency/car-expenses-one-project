@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Annotation profile for car-expenses-spring-project" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -21,11 +22,11 @@
           <entry name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.3.RELEASE/spring-context-4.0.3.RELEASE.jar" />
           <entry name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9/joda-time-2.9.jar" />
         </processorPath>
-        <module name="car-expenses-graphql-web-service" />
         <module name="car-expenses-repository" />
+        <module name="car-expenses-application" />
+        <module name="car-expenses-graphql-web-service" />
         <module name="car-expenses-rest-web-service" />
         <module name="car-expenses-frontend" />
-        <module name="car-expenses-application" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
