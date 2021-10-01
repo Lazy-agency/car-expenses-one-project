@@ -10,6 +10,7 @@
     <groupId>agency.lazy</groupId>
     <artifactId>car-expenses-spring-project</artifactId>
     <version>1.0</version>
+    <relativePath>../pom.xml</relativePath>
   </parent>
 
   <dependencies>
@@ -71,6 +72,10 @@
       <groupId>org.mockito</groupId>
       <artifactId>mockito-inline</artifactId>
       <version>3.12.4</version>
+    </dependency>
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
     </dependency>
   </dependencies>
 </project>

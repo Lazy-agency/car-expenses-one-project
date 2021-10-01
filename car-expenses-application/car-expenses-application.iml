@@ -172,5 +172,6 @@
     <orderEntry type="library" name="Maven: org.objenesis:objenesis:3.2" level="project" />
     <orderEntry type="library" name="Maven: org.mockito:mockito-inline:3.12.4" level="project" />
     <orderEntry type="library" name="Maven: com.tngtech.archunit:archunit:0.14.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.projectlombok:lombok:1.18.20" level="project" />
   </component>
 </module>
