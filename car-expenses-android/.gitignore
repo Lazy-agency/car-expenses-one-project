@@ -14,3 +14,27 @@
 .cxx
 local.properties
 !gradle/wrapper/gradle-wrapper.jar
+
+# Keystore files
+*.jks
+*.keystore
+
+# Android Studio captures folder
+captures/
+
+# Java class files
+*.class
+
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Generated files
+bin/
+gen/
+out/
